@@ -1,6 +1,6 @@
 # 🧮 JS Calculator
 
-Простой и функциональный калькулятор на чистом JavaScript
+Простой калькулятор на чистом JavaScript
 
 <div align="center">
 
