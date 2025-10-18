@@ -1,4 +1,4 @@
-# 🧪 JS Calculator
+# 🧮 JS Calculator
 
 Простой и функциональный калькулятор на чистом JavaScript
 
